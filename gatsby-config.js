@@ -2,9 +2,6 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  siteMetadata: {
-    title: `gatsby-build`,
-    siteUrl: `https://www.yourdomain.tld`,
-  },
+  pathPrefix: "aquamarine-halva-5f27df.netlify.app",
   plugins: [],
 }
